@@ -1,1 +1,1 @@
-# kurs1
+# se-kurs1
