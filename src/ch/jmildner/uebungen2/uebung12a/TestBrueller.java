@@ -1,4 +1,4 @@
-package ch.jmildner.uebungen2.uebung12;
+package ch.jmildner.uebungen2.uebung12a;
 
 import ch.jmildner.tools.MyTools;
 

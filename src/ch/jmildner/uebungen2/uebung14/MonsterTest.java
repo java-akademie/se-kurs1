@@ -1,7 +1,7 @@
 package ch.jmildner.uebungen2.uebung14;
 
 import ch.jmildner.tools.MyTools;
-import ch.jmildner.uebungen2.uebung12.Brueller;
+import ch.jmildner.uebungen2.uebung12a.Brueller;
 
 public class MonsterTest
 {

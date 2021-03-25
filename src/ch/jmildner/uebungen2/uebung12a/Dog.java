@@ -1,4 +1,4 @@
-package ch.jmildner.uebungen2.uebung12;
+package ch.jmildner.uebungen2.uebung12a;
 
 public class Dog implements Brueller
 {
